@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Sar</h1>
 <h3 align="center">National Record Holder in India Book of Records.A passionate data science student from India. Also passionate about various forms of machine learning and artifical intelligence.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/programmer">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/explore/programmer](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan-sar&label=Profile%20views&color=0e75b6&style=flat" alt="ayan-sar" /> </p>
 
